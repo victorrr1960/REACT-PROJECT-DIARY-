@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# A Diary/Journal Web App
+
+## Description
+Developed a web application using the React JS framework, enabling users to manage their diary/journal entries efficiently.
+
+## Key Features
+Registration and Logging In: Implemented user registration and authentication features to secure personal entries.
+
+CRUD Functionality: Allowed users to create, read, update, and delete diary/journal entries.
+
+Date Feature: Integrated Luxon library for advanced date handling.
+
+Search and Filter: Implemented features for users to search and filter previous entries.
+
+Categorization: Provided four distinct categories for entries, each represented by unique emojis to enhance user experience.
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
